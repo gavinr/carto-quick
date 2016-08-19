@@ -1,0 +1,29 @@
+{
+  "name": "carto-quick",
+  "version": "0.1.0",
+  "description": "Convert a list of colors to a vector tile style.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinr/carto-quick.git"
+  },
+  "keywords": [
+    "vector-tiles",
+    "colors",
+    "gis",
+    "maps"
+  ],
+  "author": "Gavin Rehkemper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinr/carto-quick/issues"
+  },
+  "homepage": "https://github.com/gavinr/carto-quick#readme",
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.5"
+  }
+}
